@@ -1,4 +1,4 @@
-<p align="center"><img src="profile-green-animate.svg"></p>
+<p align="center"><img src="profile-3d-contrib/profile-green-animate.svg"></p>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=guanyu-zhang&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="guanyu-readme-stats"> -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guanyu-zhang&hide=jupyter%20notebook&layout=compact&card_width=446&theme=react&hide_border=true" alt="guanyu-top-langs"> -->
