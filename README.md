@@ -5,7 +5,7 @@
 
 ### Hi there, this is Guanyu 👋
 
-[![gz2324@columbia.edu](https://img.shields.io/static/v1?style=flat&label=guanyu&logo=gmail&message=%20&color=9cf&logoColor=9cf)](mailto:gz2324@columbia.edu) [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat)](https://guanyu-zhang.github.io/)
+[![gz2324@columbia.edu](https://img.shields.io/static/v1?style=flat&label=guanyu&logo=gmail&message=%20&color=9cf&logoColor=9cf)](mailto:gz2324@columbia.edu) [![Website](https://img.shields.io/website?url=https://guanyu-zhang.github.io&style=flat&label=Homepage)](https://guanyu-zhang.github.io/)
 
 🎓 UT Alumni
 

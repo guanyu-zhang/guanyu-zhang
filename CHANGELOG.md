@@ -11,5 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add homepage link to README.md
 - Add 3D contribution graph to README.md
 
+### Changed
+- Update portfolio badge to show online status.
+
 ### Fixed
 - Correct the image path for the 3D contribution graph.
